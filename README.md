@@ -50,3 +50,17 @@ RoomRadar is a Python-based web scraper built to extract hotel details from [Boo
 ### 1. Install Required Packages
 ```bash
 pip install beautifulsoup4 requests lxml
+
+---
+
+## Run the Script
+python script.py
+
+###  Provide Inputs When Prompted
+Paste the Booking.com search URL (with city and dates)
+
+Enter your desired CSV file name (e.g., hotels.csv)
+
+The data will be scraped and saved to your specified file.
+
+
